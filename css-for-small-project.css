@@ -1,0 +1,14 @@
+*{ margin :  0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(rgb(157, 125, 187),rgb(157, 125, 187)), url(webSmalProjects\images\avinash-kumar-Yr146Eua_mM-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px 8% ;
+}
